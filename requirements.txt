@@ -2,3 +2,4 @@ autograd
 wget
 pillow
 matplotlib
+tqdm
