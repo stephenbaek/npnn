@@ -23,3 +23,4 @@ Now you are all set. Good luck with your project!
 
 ## Index
 - `data.ipynb`: a Jupyter Notebook to walk you through the process of downloading, reading, parsing, and preprocessing the Tiny ImageNet data set.
+- `test.py`: Test file to evaluate your model performance. This file is necessary for submission. Usage example: `python test.py tiny-imagenet-200/val tiny-imagenet-200/val/val_annotations.txt`
