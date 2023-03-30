@@ -1,6 +1,8 @@
 data/
 tiny-imagenet-200/
 *.zip
+scratch.ipynb
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
